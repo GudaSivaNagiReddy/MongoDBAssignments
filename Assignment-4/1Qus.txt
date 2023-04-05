@@ -1,0 +1,10 @@
+1.Import the attectached data in to a new database(e.g boxOffice) and collection 
+
+2.Find all movies exact with two genre
+
+3.Find all movires which aired in 2018
+
+4.Find all movies which is greater than 8 but lower than 10
+
+
+

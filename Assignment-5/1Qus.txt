@@ -1,0 +1,8 @@
+update oprations
+
+1.create a new collection and upsert two documents into it
+
+2.update all documents wnich do require a team by adding new field with min amount of players require
+
+3.update all documents that require a team by increasing the number of required players by 10
+

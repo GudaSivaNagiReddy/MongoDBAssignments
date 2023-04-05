@@ -1,0 +1,11 @@
+Geospatial Data
+
+1.Pick two points on google maps and store them into a collections 
+
+2.pick a point and find a nearst points with a min and max distances
+
+3.pick on area and see which points (that are stored in your collection) it contains
+
+4.store at least one area at a different collection
+
+5.pick a point and fing out which ares in your collection contain that point

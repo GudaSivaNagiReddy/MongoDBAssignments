@@ -1,0 +1,9 @@
+CURD operations 
+
+1.insert 3 patients records with at least 1 history entry per patient
+
+2.update patient data of one patient with new age ,name and history entry
+
+3.find all patients who are older than 30 
+
+4. delete all patients who got a cold as a disease

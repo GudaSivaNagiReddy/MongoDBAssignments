@@ -1,0 +1,7 @@
+create operations
+
+1.insert multiple companies into a collection both insertOne() and insertMany()
+
+2.Deliberately insert duplicate id data and "fix" failing additions with unordered inserts
+
+3.write a data for a new company with both jounaling being guranteed and not being guranteed
